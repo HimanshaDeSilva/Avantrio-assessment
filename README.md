@@ -32,3 +32,9 @@ AWS. Easy to learn
 How would you design the system to handle a significant increase in traffic (e.g., Black Friday)?
 Increase server capacitity. 
 
+Part2
+Server: npm start
+http://localhost:3000/
+
+Client: npm run dev
+http://localhost:5173/
